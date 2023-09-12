@@ -15,7 +15,6 @@ Welcome to the React Tic-Tac-Toe Game in Dark Mode! This is a simple web applica
   - [Installation](#installation)
 - [Usage](#usage)
 - [Game Rules](#game-rules)
-- [Customization](#customization)
 
 ## Features
 
@@ -73,13 +72,6 @@ Before you begin, ensure you have the following software installed:
 - The first player to get three of their symbols in a row (horizontally, vertically, or diagonally) wins the game.
 - If all squares are filled and no player has won, the game ends in a draw.
 
-## Customization
-
-You can customize the game further by modifying the source code. Here are some ideas:
-
-- Change the color scheme and styling in the `src/App.css` file.
-- Add sound effects or animations to enhance the user experience.
-- Implement additional features like keeping track of the score or adding a timer.
 
 
 
