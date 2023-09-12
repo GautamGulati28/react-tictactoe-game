@@ -1,6 +1,6 @@
 # React Tic-Tac-Toe Game in Dark Mode
 
-![Tic-Tac-Toe Dark Mode](https://github.com/GautamGulati28/react-tictactoe-game/assets/101964337/c5a1da30-e6a2-4e09-b7e2-49b2cafba890)
+![Tic-Tac-Toe Dark Mode](https://github.com/GautamGulati28/react-tictactoe-game/assets/101964337/949c43a4-ba2b-4e1c-91dc-684c02232255)
 
 
 Welcome to the React Tic-Tac-Toe Game in Dark Mode! This is a simple web application built using React that allows you to play the classic game of Tic-Tac-Toe in a dark-themed user interface. This README will provide you with all the information you need to set up and run the project.
@@ -39,7 +39,7 @@ Before you begin, ensure you have the following software installed:
 1. Clone the repository to your local machine using:
 
    ```bash
-   git clone [https://github.com/your-username/tic-tac-toe-dark-mode.git](https://github.com/GautamGulati28/react-tictactoe-game)
+   git clone https://github.com/GautamGulati28/react-tictactoe-game
    ```
 
 2. Navigate to the project directory:
